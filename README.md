@@ -1,5 +1,8 @@
-# Random Forest Binary Classification (PySpark)
+### Random Forest Classification (PySpark)
+---
 
-You can find a sample code as a notebook related to Random Forest Binary Classification.
-Spark's MLlib and Pipeline strategy were used in this repo.
+|__Problem__|__Data__|__Methods__|__Libs__|__Link__|
+|-|-|-|-|-|
+|`PySpark`|Randomly Generated|`Random Forest Classifier`|`Spark (PySpark)`, `Sklearn`, `Pandas`, `Seaborn`| https://github.com/erdiolmezogullari/ml-random-forest-pyspark|
 
+In this repository, you can find a bunch of sample code related to how you can use PySpark Spark's MLlib (Random Forest Classifier), and Pipeline via PySpark.
