@@ -1,4 +1,4 @@
-![Image](https://blog.epigno.systems/content/images/2018/02/python_spark-1.png)
+![Image](https://www.kdnuggets.com/images/apache-spark-python-scala-605.jpg)
 
 ### Random Forest Classification (PySpark)
 ---
